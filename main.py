@@ -11,3 +11,5 @@ print("Result:", result)
 
 data = helpers2.getData()
 print("Data:", data)
+
+print("Finished app")
