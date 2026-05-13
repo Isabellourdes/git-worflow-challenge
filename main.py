@@ -15,5 +15,4 @@ print("Result1:", result1)
 data = helpers2.getData()
 print("Data:", data)
 
-
-print("Second commit")
+print("Finished app")
